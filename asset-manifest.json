@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lesson-2.13-deployment/static/css/main.a617e044.chunk.css",
+    "main.js": "/lesson-2.13-deployment/static/js/main.3af089c6.chunk.js",
+    "main.js.map": "/lesson-2.13-deployment/static/js/main.3af089c6.chunk.js.map",
+    "runtime-main.js": "/lesson-2.13-deployment/static/js/runtime-main.fd3371e8.js",
+    "runtime-main.js.map": "/lesson-2.13-deployment/static/js/runtime-main.fd3371e8.js.map",
+    "static/js/2.3bd21206.chunk.js": "/lesson-2.13-deployment/static/js/2.3bd21206.chunk.js",
+    "static/js/2.3bd21206.chunk.js.map": "/lesson-2.13-deployment/static/js/2.3bd21206.chunk.js.map",
+    "static/js/3.3621593c.chunk.js": "/lesson-2.13-deployment/static/js/3.3621593c.chunk.js",
+    "static/js/3.3621593c.chunk.js.map": "/lesson-2.13-deployment/static/js/3.3621593c.chunk.js.map",
+    "index.html": "/lesson-2.13-deployment/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/lesson-2.13-deployment/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.3bd21206.chunk.js.LICENSE.txt": "/lesson-2.13-deployment/static/js/2.3bd21206.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/lesson-2.13-deployment/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd3371e8.js",
+    "static/js/2.3bd21206.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3af089c6.chunk.js"
+  ]
+}
